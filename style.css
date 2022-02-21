@@ -1,0 +1,33 @@
+header{
+    background-color: rgba(233, 237, 240, 0.671);
+}
+.backpack img{
+    width: 60%;
+}
+.backpack h1{
+    font-size: 60px;
+}
+.highlighter-1{
+    color: rgba(0, 0, 100, 0.966);
+}
+.highlighter-2{
+    color: rgb(109, 223, 109);
+}
+.backpack-info{
+    padding-top: 50px;
+}
+.services, .casual-backpack{
+    margin-top: 80px;
+}
+.travel-backpack{
+    margin-top: 30px;
+}
+.highlighter-3{
+    color: rgba(14, 14, 75, 0.829);
+    margin-bottom: 30px;
+}
+.casual-backpack img, .travel-backpack img{
+    width: 60%;
+}
+
+
